@@ -1,3 +1,15 @@
+/*
+Theme Name: 404 Day and Night Animation
+Author: HTMLBEANS
+Author URI:
+Version: 1
+Description: 404 Theme
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: base
+Tags: one-column, two-columns
+Theme URI:
+*/
 
 /*------------------------------------------------------------------
 
@@ -207,7 +219,7 @@ body{margin: 0;}
 	z-index: 7;
 	left: 34.6%;
 	bottom: 42%;
-	color: #6F04F0;
+	color: #96bb06;
 	word-spacing: 2px;
 	position: absolute;
 	letter-spacing: 3px;
@@ -240,7 +252,7 @@ body{margin: 0;}
 	padding: 10px;
 	border-radius: 5px;
 	vertical-align: top;
-	background: #6F04F0;
+	background: #96bb06;
 	display: inline-block;
 	text-decoration: none;
 	text-transform: uppercase;
